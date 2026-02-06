@@ -66,7 +66,7 @@ export OPERATOR_API_KEY="your-api-key"
 export OPERATOR_MODEL_NAME="your-model-name"
 
 # Train model
-bash examples/scripts/workflow_r1_train.sh
+bash train.sh
 ```
 
 ## 🙏 Acknowledgement
